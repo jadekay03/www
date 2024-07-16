@@ -1,0 +1,20 @@
+---
+title: "Jade Kay"
+about:
+  template: jolla
+  image: Assets/Headshot2.jpg
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:jadekay61@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/
+---
+
+Welcome to my website! I am a Graduating Senior Health Science major concentrating in Policy and Administration minoring in Psychology from Washington, DC. I am passionate about healthcare and healthcare equity for minority groups. 
+

@@ -1,0 +1,20 @@
+---
+title: "My EDA Project"
+description: "Capstone project on Juvenile Health Outcomes for SURE 2024 at CMU"
+date: July 2024
+resources: "."
+about: 
+  template: solana
+  image: cover.jpeg
+  links: 
+    - icon: github
+      text: "Github"
+      href: https://github.com/rdevraj3105/CMU-SURE-2024-Capstone-Project
+    - icon: laptop
+      text: Slides
+      href: https://docs.google.com/presentation/d/1meIQ7qSZ-ZnVyl0-utZuEyk0shKKfeJwfoB02Vc1JuM/edit#slide=id.g2eb1309bf57_0_11
+    - icon: file
+      text: Poster
+    - icon: pencil
+      text: Report
+---
